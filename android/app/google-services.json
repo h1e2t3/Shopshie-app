@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153617503886",
+    "project_id": "shopsie-407c0",
+    "storage_bucket": "shopsie-407c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153617503886:android:9677dfabf3012a63ef5bdf",
+        "android_client_info": {
+          "package_name": "com.example.shopsie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqfX6DSAr-PbVCIuVByDKh4WJO_J3QSZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
